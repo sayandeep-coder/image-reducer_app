@@ -33,7 +33,6 @@ Enable users to compress, resize, crop, and convert photos easily — focusing o
 ✅ Bulk processing
 ✅ Save & Share (replace original optional)
 
-📂 Project Structure
 lib/
 │── app/
 │   ├── constants/
